@@ -11,7 +11,7 @@ import com.EgeaCom;
 public class App {
     
     public static void main(String[] args) throws Exception {
-        
+        String d="ssss";
         System.setProperty("idPlanif","23");
         System.setProperty("idConfi","1");
         System.setProperty("idPaq","0");
